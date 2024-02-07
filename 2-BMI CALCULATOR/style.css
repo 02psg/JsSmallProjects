@@ -1,0 +1,15 @@
+.container {
+    width: auto;
+    height: 825px;
+  
+    background-color: #797978;
+    padding-left: 30px;
+    display: flex;
+    justify-content: center;
+  }
+  #height,
+  #weight {
+    width: 150px;
+    height: 25px;
+    margin-top: 80px;
+  }
